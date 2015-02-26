@@ -1,0 +1,5 @@
+# -*- mode: org; coding: utf-8; -*-
+#+TITLE: 快乐星园成长同盟
+#+AUTHOR: 快乐星园
+
+
